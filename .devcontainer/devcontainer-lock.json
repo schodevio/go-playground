@@ -1,0 +1,14 @@
+{
+  "features": {
+    "ghcr.io/jungaretti/features/make:1": {
+      "version": "1.0.1",
+      "resolved": "ghcr.io/jungaretti/features/make@sha256:08d5c03484f33c16ae19e1015cdb3ef967b38db66ad0ae7f896e4cdadbb59d20",
+      "integrity": "sha256:08d5c03484f33c16ae19e1015cdb3ef967b38db66ad0ae7f896e4cdadbb59d20"
+    },
+    "ghcr.io/nlstn/devcontainer-features/go-air:1": {
+      "version": "1.0.0",
+      "resolved": "ghcr.io/nlstn/devcontainer-features/go-air@sha256:6b9d2c00228c208b11fc726a5f73cbc8837668ce7a7bb837d849e8759eea8764",
+      "integrity": "sha256:6b9d2c00228c208b11fc726a5f73cbc8837668ce7a7bb837d849e8759eea8764"
+    }
+  }
+}

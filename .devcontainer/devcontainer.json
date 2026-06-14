@@ -1,0 +1,27 @@
+{
+  "name": "Go Playground",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "playground",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+
+  "features": {
+    "ghcr.io/jungaretti/features/make:1": {},
+    "ghcr.io/nlstn/devcontainer-features/go-air:1": {}
+  },
+
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "golang.go",
+        "sleistner.vscode-fileutils",
+        "tamasfe.even-better-toml"
+      ],
+      "settings": {
+        "go.toolsManagement.autoUpdate": true
+      }
+    }
+  },
+
+  // "postCreateCommand": "go mod download"
+}
