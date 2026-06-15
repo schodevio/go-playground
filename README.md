@@ -46,6 +46,12 @@ Demonstrates how to use pointers in Go to modify the original data instead of wo
 
 **Reference:** [Everything You Need To Know About Pointers In Golang](https://www.youtube.com/watch?v=mqH21m0MsWk&list=PL0xRBLFXXsP7-0IVCmoo2FEWBrQzfH2l8&index=7)
 
+### go8 — JSON API Project Structure
+
+Shows how to build and structure a JSON API project in Go without the need for a third-party framework.
+
+**Reference:** [How To Build And Structure A JSON API Project In Golang!?](https://www.youtube.com/watch?v=CJfE9kD_i7Q&list=PL0xRBLFXXsP7-0IVCmoo2FEWBrQzfH2l8&index=8)
+
 ## Requirements
 
 - Go 1.18+
