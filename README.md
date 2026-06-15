@@ -40,6 +40,11 @@ Walks through an approach to building and structuring a microservice in Go.
 
 **Reference:** [How To Build And Structure A Microservice In Golang?!](https://www.youtube.com/watch?v=sqj4UzN4OpU&list=PL0xRBLFXXsP7-0IVCmoo2FEWBrQzfH2l8&index=6)
 
+### go7 — Pointers in Golang
+
+Demonstrates how to use pointers in Go to modify the original data instead of working with a copy.
+
+**Reference:** [Everything You Need To Know About Pointers In Golang](https://www.youtube.com/watch?v=mqH21m0MsWk&list=PL0xRBLFXXsP7-0IVCmoo2FEWBrQzfH2l8&index=7)
 
 ## Requirements
 
