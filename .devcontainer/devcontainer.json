@@ -3,6 +3,7 @@
   "dockerComposeFile": "docker-compose.yml",
   "service": "playground",
   "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+  "forwardPorts": [8080],
 
   "features": {
     "ghcr.io/jungaretti/features/make:1": {},
