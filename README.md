@@ -52,6 +52,24 @@ Shows how to build and structure a JSON API project in Go without the need for a
 
 **Reference:** [How To Build And Structure A JSON API Project In Golang!?](https://www.youtube.com/watch?v=CJfE9kD_i7Q&list=PL0xRBLFXXsP7-0IVCmoo2FEWBrQzfH2l8&index=8)
 
+### go9 — Custom TCP Server
+
+Demonstrates how to build a custom TCP server using only the standard library to read from and write to incoming connections.
+
+**Reference:** [How To Build A Custom TCP Server In Golang!?](https://www.youtube.com/watch?v=qJQrrscB1-4&list=PL0xRBLFXXsP7-0IVCmoo2FEWBrQzfH2l8&index=9)
+
+### go10 — Idiomatic Go
+
+Covers the most important tips for writing idiomatic code in Go.
+
+**Reference:** [Important Tips On How To Write Idiomatic Code In Golang](https://www.youtube.com/watch?v=9cJHCoSxbn8&list=PL0xRBLFXXsP7-0IVCmoo2FEWBrQzfH2l8&index=10)
+
+### go11 — WebSocket Chat & Data Feed
+
+Builds a WebSocket server supporting a multi-client chat and a real-time orderbook data feed.
+
+**Reference:** [How To Build A Chat And Data Feed With WebSockets In Golang?](https://www.youtube.com/watch?v=JuUAEYLkGbM&list=PL0xRBLFXXsP7-0IVCmoo2FEWBrQzfH2l8&index=11)
+
 ## Requirements
 
 - Go 1.18+
